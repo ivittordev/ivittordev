@@ -1,18 +1,49 @@
-<!-- <h1>Hello! I'm Vitor Hugo<h1/>
+### 👋 Hey, I'm Vitor Hugo
+<hr />
 
- <a href-"htps://github.com/ivittordev">XXXX<a>
+#### Full-Stack Developer
+<p>I’m a Full-Stack developer passionate about technology and software development, focused on creating modern, responsive, and efficient digital experiences. I enjoy turning ideas into reality through clean code and creative solutions.
+</p>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Nikito-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Nikito-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Nikito-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Nikito-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
-  <img align="center" alt="Nikito-LUA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg">
+<h2>📞 Contatos</h2>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 14px;">
+  <a href="https://ptb.discord.com/users/1548881729186435173"><img height="45" src="https://skillicons.dev/icons?i=discord" alt="Discord" /></a>&nbsp;
 </div>
-   -->
-<!-- <div> 
-  <a href="https://www.youtube.com/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/Nikitozdev" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:Nikitodev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div> -->
+
+<h2>⚙️ Backend</h2>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 14px;">
+  <img height="45" src="https://skillicons.dev/icons?i=lua" alt="Lua" />
+  <img height="45" src="https://skillicons.dev/icons?i=go" alt="Golang" />
+</div>
+
+<h2>💻 Frontend</h2>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 14px;">
+  <img height="45" src="https://skillicons.dev/icons?i=html" alt="Html5" />
+  <img height="45" src="https://skillicons.dev/icons?i=css" alt="Css3" />
+  <img height="45" src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" />
+  <img height="45" src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
+  <img height="45" src="https://skillicons.dev/icons?i=ts" alt="TypeScript" />
+  <img height="45" src="https://skillicons.dev/icons?i=vite" alt="Vite" />
+  <img height="45" src="https://skillicons.dev/icons?i=react" alt="React" />
+  <img height="45" src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" />
+  <img height="45" src="https://skillicons.dev/icons?i=vue" alt="Vue.js" />
+</div>
+
+<h2>🎨 Designer</h2>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 14px;">
+  <img height="45" src="https://skillicons.dev/icons?i=photoshop" alt="Photoshop" />
+  <img height="45" src="https://skillicons.dev/icons?i=figma" alt="Figma" />
+</div>
+
+<h2>🛠️ Ferramentas</h2>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 14px;">
+  <img height="45" src="https://skillicons.dev/icons?i=git" alt="Git" />
+  <img height="45" src="https://skillicons.dev/icons?i=github" alt="Github" />
+  <img height="45" src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" />
+</div>
+
+<hr />
+
+<p align="center">
+  <sub>© 2026 <strong>@vittordev</strong>. Todos os direitos reservados.</sub>
+</p>
