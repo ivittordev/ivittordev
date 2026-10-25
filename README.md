@@ -5,11 +5,6 @@
 <p>I’m a Full-Stack developer passionate about technology and software development, focused on creating modern, responsive, and efficient digital experiences. I enjoy turning ideas into reality through clean code and creative solutions.
 </p>
 
-<h2>📞 Contatos</h2>
-<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 14px;">
-  <a href="https://ptb.discord.com/users/1548881729186435173"><img height="45" src="https://skillicons.dev/icons?i=discord" alt="Discord" /></a>&nbsp;
-</div>
-
 <h2>⚙️ Backend</h2>
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 14px;">
   <img height="45" src="https://skillicons.dev/icons?i=lua" alt="Lua" />
@@ -40,6 +35,11 @@
   <img height="45" src="https://skillicons.dev/icons?i=git" alt="Git" />
   <img height="45" src="https://skillicons.dev/icons?i=github" alt="Github" />
   <img height="45" src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" />
+</div>
+
+<h2>📞 Contatos</h2>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 14px;">
+  <a href="https://ptb.discord.com/users/1548881729186435173"><img height="45" src="https://skillicons.dev/icons?i=discord" alt="Discord" /></a>&nbsp;
 </div>
 
 <hr />
