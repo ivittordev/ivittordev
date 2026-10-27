@@ -39,6 +39,7 @@
 
 <h2>📞 Contatos</h2>
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 14px;">
+  <a href="https://ptb.discord.com/users/1548881729186435173"><img height="45" src="https://skillicons.dev/icons?i=instagram" alt="Discord" /></a>&nbsp;
   <a href="https://ptb.discord.com/users/1548881729186435173"><img height="45" src="https://skillicons.dev/icons?i=discord" alt="Discord" /></a>&nbsp;
 </div>
 
